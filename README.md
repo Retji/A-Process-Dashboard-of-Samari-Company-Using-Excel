@@ -1,4 +1,4 @@
-## Samari Packaging Company Data Analysis Project
+## Samari Packaging Company Process Analysis Project
 ![sam](https://user-images.githubusercontent.com/37171086/230789590-da5fc3e0-521b-49ab-a287-ec314406a060.png)
 
 
