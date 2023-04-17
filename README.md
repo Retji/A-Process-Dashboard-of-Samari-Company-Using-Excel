@@ -10,6 +10,9 @@ The goal of this project was to calculate the number of hours worked each day, t
 The pay structure for the workers at Samari Packaging Company was as follows: Packagers were paid $0.5 per packaged item while Checkers were paid $0.3 per checked packaged item. Additionally, all workers received a base pay of $5 per hour. A tax of 7% was deducted from the total pay accrued.
 
 The final dashboard displayed key metrics such as total hours worked, total number of packaged and checked items, and total pay earned after taxes. This project aimed to provide insights into the productivity and compensation of the workers at Samari Packaging Company.
+**Data Source**
+---
+The Samari company is a ficticious company. Data used was entirely imagined and curated on mockaroo.com
 
 **Data Cleaning**
 ---
