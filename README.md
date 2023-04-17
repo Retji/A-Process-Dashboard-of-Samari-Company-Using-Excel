@@ -15,7 +15,10 @@ The final dashboard displayed key metrics such as total hours worked, total numb
 ---
 ![cleaned](https://user-images.githubusercontent.com/37171086/232362017-0e39d27d-2d07-48cd-a49c-a1284f5579d7.png)
 
-Before conducting any analysis, the data had to be cleaned to ensure accuracy. The cleaning process included removing any duplicate entries, handling missing values, and ensuring consistency in the data format.
+Before conducting any analysis, the data had to be cleaned to ensure accuracy. The cleaning process included removing any duplicate entries, handling missing values, and ensuring consistency in the data format. Further analysis was done using Excel formulas:
+1. The duration of work was calculation from the time_in and time_out using the function ROUND((H5-G5)*24,1)
+2. The payment of each worker per hour (hours worked * 5)
+3. The payment pricing of each worker depending on job role using "IF" statement - IF(F5="packager",I5*0.5,I5*0.3)
 
 **Pivot Table Creation**
 ---
