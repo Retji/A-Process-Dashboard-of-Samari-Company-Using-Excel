@@ -1,4 +1,5 @@
-## Samari Packaging Company Process Analysis Project
+# Samari Packaging Company Process Analysis on Excel
+
 ![sam](https://user-images.githubusercontent.com/37171086/230789590-da5fc3e0-521b-49ab-a287-ec314406a060.png)
 
 
@@ -10,14 +11,26 @@ The pay structure for the workers at Samari Packaging Company was as follows: Pa
 
 The final dashboard displayed key metrics such as total hours worked, total number of packaged and checked items, and total pay earned after taxes. This project aimed to provide insights into the productivity and compensation of the workers at Samari Packaging Company.
 
-### Data Cleaning
+**Data Cleaning**
+---
+![cleaned](https://user-images.githubusercontent.com/37171086/232362017-0e39d27d-2d07-48cd-a49c-a1284f5579d7.png)
+
 Before conducting any analysis, the data had to be cleaned to ensure accuracy. The cleaning process included removing any duplicate entries, handling missing values, and ensuring consistency in the data format.
 
-### Pivot Table Creation
+**Pivot Table Creation**
+---
+![pivot table](https://user-images.githubusercontent.com/37171086/232361759-fab41adc-e274-441e-9410-f0f6b66af42c.png)
+
 Once the data was cleaned, pivot tables were created to summarize and analyze the data. The pivot tables were used to calculate the number of hours worked each day, the number of packaged items by each Packager, and the number of checked packaged items by each Checker.
 
-### Dashboard Design
+**Dashboard Design**
+---
 To provide a visual representation of the data, a dashboard was created using Excel. The dashboard included key metrics such as total hours worked, total number of packaged and checked items, and total pay earned after taxes. The dashboard allowed for easy visualization of the data, enabling the end-user to quickly gain insights into the productivity and compensation of the workers.
 
-### Conclusion
+**Key findings**
+---
+One key insights from the data is the productivity trend of the packagers. The most productive timeframe for workers is to work only between 4.2 to 4.7 hours only in a day. It is evident that working for longer hours cannot guarantee increased productivity. Workers who worked between 4 to 5 hours provided the most output. Also, it was observed that the company has so far not expended more than $3000 in a day in payment. The company has expended an average of $863 daily as payment amount.
+
+**Conclusion**
+---
 Overall, this project aimed to provide insights into the productivity and compensation of the workers at Samari Packaging Company. Through data cleaning, pivot table creation, and dashboard design, the project successfully analyzed and visualized the data. This project is an example of how data analysis can provide valuable insights into business operations, leading to better decision-making.
