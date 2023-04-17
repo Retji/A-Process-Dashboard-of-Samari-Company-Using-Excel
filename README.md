@@ -29,7 +29,7 @@ To provide a visual representation of the data, a dashboard was created using Ex
 
 **Key findings**
 ---
-One key insights from the data is the productivity trend of the packagers. The most productive timeframe for workers is to work only between 4.2 to 4.7 hours only in a day. It is evident that working for longer hours cannot guarantee increased productivity. Workers who worked between 4 to 5 hours provided the most output. Also, it was observed that the company has so far not expended more than $3000 in a day in payment. The company has expended an average of $863 daily as payment amount.
+One key insights from the data is the productivity trend of the packagers. The most productive timeframe for workers is to work only between 4.2 to 4.7 hours only in a day. It is evident that working for longer hours cannot guarantee increased productivity. Workers who worked between 4 to 5 hours provided the most output. Also, it was observed that the company has so far not expended more than $3000 in a day in payment. The company has expended an average of $863 daily.
 
 **Conclusion**
 ---
