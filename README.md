@@ -19,6 +19,8 @@ Before conducting any analysis, the data had to be cleaned to ensure accuracy. T
 1. The duration of work was calculation from the time_in and time_out using the function ROUND((H5-G5)*24,1)
 2. The payment of each worker per hour (hours worked * 5)
 3. The payment pricing of each worker depending on job role using "IF" statement - IF(F5="packager",I5*0.5,I5*0.3)
+4. A search box for the worked hours and payment of any worker was done using VLOOKUP and IFFERROR statement
+5. Data validation was added to the Pivot table for easy navigation to a specific day
 
 **Pivot Table Creation**
 ---
